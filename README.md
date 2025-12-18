@@ -1,5 +1,53 @@
-# 💫 About Me:
-# 👋 Hi, I'm Sidali🔐 Cybersecurity enthusiast | Bug bounty hunter | CTF player  <br>💻 Linux & Web Security | Offensive Security  <br>🌍 Based in Algeria<br><br>---<br><br>## 🧠 About Me<br><br>- 🏴‍☠️ Active in **CTFs** (TryHackMe, Hack The Box, PortSwigger)<br>- 🐞 Bug bounty hunter with real-world vulnerability findings<br>- 🌐 Strong focus on **Web Application Security**<br>- 🐧 Comfortable with Linux, Docker, and VPS environments<br>- 📚 Constantly learning and improving offensive & defensive techniques<br><br>---<br><br>## 🛠️ Skills & Tools<br><br>### 🔎 Web Security<br>- XSS (Stored / Reflected / DOM)<br>- SQL Injection<br>- IDOR<br>- CORS Misconfigurations<br>- Authentication & Authorization flaws<br>- JWT & API security<br><br>### 🧑‍💻 Languages<br>- JavaScript (Node.js)<br>- Python<br>- Bash<br>- C (basic)<br>- C++ (advanced)<br><br>---<br><br>## 🚩 Platforms<br><br>- 🧪 TryHackMe  <br>- 🧠 Hack The Box  <br>- 🎯 PortSwigger Web Security Academy  <br>- 🐞 HackerOne / Bugcrowd<br><br>---<br><br>## 📂 Projects<br><br>- 🔐 CTF writeups & lab solutions<br>- 🕵️ Custom reconnaissance & automation scripts<br>- 🧰 Security testing tools & experiments<br><br>> More projects coming soon 🚀<br><br>---<br><br>> *“Hack to learn, not to harm.”*<br>
+<small>
+
+### 💫 About Me
+
+👋 Hi, I'm **Sidali**  
+🔐 Cybersecurity enthusiast · Bug bounty hunter · CTF player  
+💻 Linux & Web Security · Offensive Security  
+🌍 Based in Algeria
+
+---
+
+### 🧠 About
+
+* 🏴‍☠️ Active in **CTFs** (TryHackMe, Hack The Box, PortSwigger)
+* 🐞 Bug bounty hunter with real-world vulnerability findings
+* 🌐 Focused on **Web Application Security**
+* 🐧 Comfortable with Linux, Docker, and VPS
+* 📚 Constantly learning offensive & defensive security
+
+---
+
+### 🛠️ Skills
+
+**🔎 Web Security**  
+XSS · SQLi · IDOR · CORS · Auth flaws · JWT · API security
+
+**🧑‍💻 Languages**  
+JavaScript (Node.js) · Python · Bash · C · C++
+
+---
+
+### 🚩 Platforms
+
+TryHackMe · Hack The Box · PortSwigger · HackerOne · Bugcrowd
+
+---
+
+### 📂 Projects
+
+* CTF writeups & lab solutions
+* Recon & automation scripts
+* Security tools & experiments
+
+> More projects coming soon 🚀
+
+---
+
+*“Hack to learn, not to harm.”*
+
+</small>
 
 
 # 💻 Tech Stack:
